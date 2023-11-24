@@ -1,2 +1,2 @@
 # namaste-food
-A react food app
+A react based food app
